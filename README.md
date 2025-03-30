@@ -1,5 +1,3 @@
-- 👋 Hi, I’m @laco-ste
-- 👀 I’m interested in avation , cooking and ofc coding
 - 🌱 I’m currently learning C++
 - 📫 How to reach me discord:laco.ste
 
